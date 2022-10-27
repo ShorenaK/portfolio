@@ -186,6 +186,10 @@ header{
     top: 1em;
     z-index: 100;
 }
+
+.nav-open{
+    background: red;
+}
 /* hamburger */
 
 
