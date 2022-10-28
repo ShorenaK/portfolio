@@ -406,10 +406,10 @@ header{
 /* Footer */
 .footer{
     background: rgb(2, 25, 42) ;
-    color: var(--clr-accent);
+    color: azure;
     text-align: center;
     padding: 2.5em 0;
-    font-size: var(--fs-h3);
+    font-size: 15px;
     text-decoration: none;
     list-style: none;
 }
@@ -474,4 +474,9 @@ header{
     color: azure;
     margin-bottom: 8rem;
    
+}
+.logo{
+    border-radius: 30px;
+    height: 60px;
+    width: 60px;
 }
