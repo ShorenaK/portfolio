@@ -80,6 +80,7 @@ strong{
  text-transform: uppercase;
  font-weight: var(--fw-bold);
  transition: transform 200ms ease-in-out;
+ border-radius: 10px;
 }
 
 .btn:hover{
