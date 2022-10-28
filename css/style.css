@@ -403,7 +403,7 @@ header{
 
 /* Footer */
 .footer{
-    background: #111;
+    background: rgb(2, 25, 42) ;
     color: var(--clr-accent);
     text-align: center;
     padding: 2.5em 0;
@@ -457,3 +457,11 @@ header{
    margin-left: auto;
 
 }
+.section__subtitle--intro{
+    color: #fff;
+}
+
+.section__title{
+    color: var(--clr-dark);
+}
+
