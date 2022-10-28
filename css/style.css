@@ -107,6 +107,7 @@ h3{
 
 .section__title{
  margin-bottom: .25em;
+
 }
 
 .section__title--intro{
@@ -468,4 +469,9 @@ header{
 
 .section__subtitle--about{
     color:azure;
+}
+.section__title--work{
+    color: azure;
+    margin-bottom: 8rem;
+   
 }
