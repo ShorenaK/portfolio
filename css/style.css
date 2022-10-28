@@ -1,6 +1,7 @@
 *, 
 
 *::before, 
+*::before, 
 
 *::after{
  box-sizing: border-box;
@@ -8,16 +9,16 @@
 /* custom properties  */
 
 :root{
-    --ff-primary: 'Source Sans Pro', sans-serif;
-    --ff-secondary: 'Source Code Pro', monospace;
+    --ff-primary: 'Lora', serif;
+    --ff-secondary: 'Roboto Slab', serif;
 
-    --fw-reg:300;
-    --fw-bold: 900;
+    --fw-reg: 400;
+    --fw-bold: 700;
 
     --clr-light: #fff;
-    --clr-dark: #303030;
-    --clr-accent: #16e0bd;
-
+    --clr-dark: rgb(1, 37, 61) ;
+    --clr-accent: rgb(6, 82, 132);
+    
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
     --fs-h3: 1.25rem;
@@ -443,4 +444,16 @@ header{
 
 .social-list__link{
     padding: .5em;
+}
+
+.portfolio-item-individual{
+    padding: 0 2em 2em ;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.portfolio-item-individual p {
+   max-width: 600px;
+   margin-left: auto;
+
 }
