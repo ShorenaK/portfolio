@@ -27,7 +27,7 @@
 
 ## Link to hosted application:
 
-
+https://shorenakanzhilov.netlify.app/
 
 ## Support: 
 
