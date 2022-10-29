@@ -287,7 +287,6 @@ header{
     background-color: var(--clr-dark);
     background: url(../img/services-bg.jpg);
     background-size: cover;
-    /* background-blend-mode: multiply; */
     color: var(--clr-light);
     text-align: center;
 
@@ -481,7 +480,6 @@ header{
  
     width: 80px;
     height: 80px;
-    /* margin-right: 700px; */
     border-radius: 60px;
 }  
 
